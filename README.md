@@ -1,0 +1,2 @@
+# fish
+use for linux
